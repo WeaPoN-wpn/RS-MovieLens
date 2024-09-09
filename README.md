@@ -1,5 +1,6 @@
 # RS-MovieLens
 MovieLens Recommender: A Comparative Study of Recommendation Algorithms
+Access the full project report here (Full_Report.pdf)
 
 ## Abstract
 
