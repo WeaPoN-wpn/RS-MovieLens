@@ -1,10 +1,9 @@
 # RS-MovieLens
 MovieLens Recommender: A Comparative Study of Recommendation Algorithms
-Access the full project report here (Full_Report.pdf)
 
 ## Abstract
 
-This project compares various recommender system models on the MovieLens 1M dataset. Models include Content-Based, Collaborative Filtering, Singular Value Decomposition (SVD), and Deep Learning. The Softmax Deep Neural Network performed best with the lowest Mean Square Error (MSE) on the test set.
+This project compares various recommender system models on the MovieLens 1M dataset. Models include Content-Based, Collaborative Filtering, Singular Value Decomposition (SVD), and Deep Learning. The Softmax Deep Neural Network performed best with the lowest Mean Square Error (MSE) on the test set. For a more detailed analysis and discussion, please refer to the [full project report](Full_Report.pdf).
 
 ## Table of Contents
 
